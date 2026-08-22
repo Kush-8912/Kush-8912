@@ -41,8 +41,8 @@ I'm someone who likes figuring out how things work, then building something bett
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Kush-8912&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kush-8912&layout=compact&theme=radical&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kush-8912&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kush-8912&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
