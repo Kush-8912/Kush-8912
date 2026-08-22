@@ -9,7 +9,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/kushagra-aggarwal-b58a31378/"><img src="https://img.shields.io/badge/LinkedIn-6A11CB?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:kushagraaggarwal76@gmail.com"><img src="https://img.shields.io/badge/Gmail-2575FC?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Kush-8912"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
