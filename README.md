@@ -7,9 +7,13 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kush-8912&label=Profile%20Views&color=6A5ACD&style=flat-square" />
-  <a href="https://www.linkedin.com/in/kushagra-aggarwal-b58a31378/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:kushagraaggarwal76@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say_Hi-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kushagra-aggarwal-b58a31378/"><img src="https://img.shields.io/badge/LinkedIn-6A11CB?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kushagraaggarwal76@gmail.com"><img src="https://img.shields.io/badge/Gmail-2575FC?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Kush-8912"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kush-8912&label=PROFILE+VIEWS&color=6A11CB&style=for-the-badge&labelColor=1a1a2e" />
 </p>
 
 ---
