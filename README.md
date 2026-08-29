@@ -25,7 +25,6 @@ I'm someone who likes figuring out how things work, then building something bett
 - 🎨 I care about how things *feel* to use, not just whether they work
 - 🤝 Genuinely enjoy collaborating — good ideas get better with more than one head on them
 - ⚡ Learn fastest by building, breaking, and rebuilding
-- 🍎 Mac person through and through
 
 ---
 
