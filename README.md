@@ -6,7 +6,6 @@
 
 <a href="https://www.linkedin.com/in/kushagra-aggarwal-b58a31378/"><img src="https://img.shields.io/badge/LinkedIn-6A11CB?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:kushagraaggarwal76@gmail.com"><img src="https://img.shields.io/badge/Gmail-2575FC?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/Kush-8912"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=Kush-8912&label=PROFILE+VIEWS&color=6A11CB&style=for-the-badge&labelColor=1a1a2e" />
 
