@@ -73,16 +73,12 @@ I'm someone who likes figuring out how things work, then building something bett
 <img src="https://streak-stats.demolab.com?user=Kush-8912&theme=radical&hide_border=true&background=0d1117" />
 </div>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kush-8912&theme=react-dark&hide_border=true&bg_color=0d1117&area=true" width="100%" />
-</div>
-
 <br />
 
 ### 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Kush-8912&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img src="https://github-trophies.vercel.app/?username=Kush-8912&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" />
 </div>
 
 <br />
