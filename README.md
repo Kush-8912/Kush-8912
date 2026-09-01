@@ -4,11 +4,23 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3200&pause=1200&color=6A5ACD&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Kushagra+%F0%9F%91%8B;AI+%2B+Full-Stack+Developer;Curious+by+default%2C+building+by+habit;Turning+fuzzy+ideas+into+shipped+products" alt="Typing SVG" />
 
-<a href="https://github.com/Kush-8912"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/kushagra-aggarwal-b58a31378/"><img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:kushagraaggarwal76@gmail.com"><img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://www.instagram.com/kushagra_891200/"><img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://x.com/Kushagra8912"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kushagra-aggarwal-b58a31378/">
+    <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="42" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:kushagraaggarwal76@gmail.com">
+    <img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="42" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/kushagra_891200/">
+    <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="42" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/Kushagra8912">
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" height="42" />
+  </a>
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=Kush-8912&label=PROFILE+VIEWS&color=6A11CB&style=for-the-badge&labelColor=1a1a2e" />
 
