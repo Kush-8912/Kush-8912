@@ -6,19 +6,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kushagra-aggarwal-b58a31378/">
-    <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="42" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" height="48" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:kushagraaggarwal76@gmail.com">
-    <img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="42" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" height="48" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/kushagra_891200/">
-    <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="42" />
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" height="48" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/Kushagra8912">
-    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" height="42" />
+    <img src="https://raw.githubusercontent.com/Kush-8912/Kush-8912/main/assets/x-icon.svg" alt="X" height="48" />
   </a>
 </p>
 
